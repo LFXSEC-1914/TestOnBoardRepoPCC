@@ -1,6 +1,6 @@
 # Ignore by file path
 - paths:
-    - "app.py"
+    - app.py
 
 # Ignore by secret value
 # Equivalent to 'secret_value == my_password OR secret_value == my_token'
